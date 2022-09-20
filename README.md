@@ -2,10 +2,10 @@
 This is my first competition to predict model made using python on jupyter notebooks in kaggle with Shai 
 https://www.kaggle.com/competitions/shai-club
 
-##Data Description:
+## Data Description:
 This classic dataset contains the prices and other attributes of almost 54,000 diamonds. It's a great dataset for beginners learning to work with data analysis and visualization.
 
-##Files:
+## Files:
 <li>train.csv - the training set</li>
 <li>test.csv - the test set</li>
 
