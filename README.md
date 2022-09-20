@@ -9,7 +9,7 @@ This classic dataset contains the prices and other attributes of almost 54,000 d
 <li>train.csv - the training set</li>
 <li>test.csv - the test set</li>
 
-##Features:
+## Features:
 <li>price price in US dollars ($326--$18,823)</li>
 <li>carat weight of the diamond (0.2--5.01)</li>
 <li>cut quality of the cut (Fair, Good, Very Good, Premium, Ideal)</li>
