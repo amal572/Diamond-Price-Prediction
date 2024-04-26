@@ -1,6 +1,6 @@
 # Diamond Price Prediction
 
-This is my first competition to predict models using Python on Jupyter notebooks in Kaggle with Shai. 
+This project aims to predict the price of diamonds by training multiple classification models and determining the optimal performance score.
 
 Competition link: [Diamond Price Prediction](https://www.kaggle.com/competitions/shai-club)
 
